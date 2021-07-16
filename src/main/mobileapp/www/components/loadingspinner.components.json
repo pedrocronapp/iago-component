@@ -1,0 +1,12 @@
+{
+    "name": "crn-loadingspinner",
+    "text": "SpinnerLoading",
+    "class": "adjust-icon mdi mdi-checkerboard",
+    "templateURL": "${webcontent}/components/templates/loadingspinner.template.html",
+    "properties": {
+        "onchange": {
+            "removable": true,
+            "type": "event"
+        }
+    }
+}
